@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **lakshmansai9978@gmail.com**
 
-- 📄 Know about my experiences :- https://docs.google.com/document/d/1Q4i9aw0hSnq-S0au6slP7GV0GeGXsaQ9/edit?usp=sharing&ouid=113365726423347275792&rtpof=true&sd=true
+- 📄 Know about my experiences :- https://drive.google.com/file/d/1L7yrtwciVt6JDpURwD3-lb17OGMd9NkF/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
