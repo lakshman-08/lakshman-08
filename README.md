@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm M Lakshman Sai</h1>
 <h3 align="center">Backend Developer with 1+ years of experience in building scalable, cloud-based web applications using Java, Spring Boot, and Microservices. Strong understanding of RESTful APIs, database management, and cloud services like AWS. Passionate about optimizing performance and contributing to agile development environments.</h3>
 
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
 - 🔭 I’m currently working on **Health Care Domain**
 
 - 🌱 I’m currently learning **Full Stack Development**
