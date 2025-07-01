@@ -7,7 +7,8 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/lakshman-08?tab=repositories](https://github.com/lakshman-08?tab=repositories)
+- 👨‍💻 All of my projects are available at : <a href="https://github.com/lakshman-08?tab=repositories" target="blank"><img align="center" src="https://github.com/user-attachments/assets/125e74df-2c16-4c25-ac35-bfd6da3dbbe8" alt="www.linkedin.com/in/muppina-lakshman-sai" height="30" width="40" /></a>
+
 
 - 💬 Ask me about **Java,Spring Boot,Microservices**
 
