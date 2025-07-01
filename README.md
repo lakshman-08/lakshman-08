@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **lakshmansai9978@gmail.com**
 
-- 📄 Know about my experiences :- https://drive.google.com/file/d/1L7yrtwciVt6JDpURwD3-lb17OGMd9NkF/view?usp=sharing
+- 📄 Know about my experiences :- <a href="https://drive.google.com/file/d/1L7yrtwciVt6JDpURwD3-lb17OGMd9NkF/view?usp=sharing" target="blank"><img align="center" src="https://www.google.com/imgres?q=resume%20icon&imgurl=https%3A%2F%2Fwww.creativefabrica.com%2Fwp-content%2Fuploads%2F2021%2F06%2F13%2FCV-or-Resume-Icon-Graphics-13336606-3-580x376.jpg&imgrefurl=https%3A%2F%2Fwww.creativefabrica.com%2Fproduct%2Fcv-or-resume-icon%2F&docid=DclWV2k8OHoL2M&tbnid=4zOgzDcuwaO0cM&vet=12ahUKEwjusLz8i5yOAxV75TQHHYSMBTgQM3oECHsQAA..i&w=580&h=376&hcb=2&ved=2ahUKEwjusLz8i5yOAxV75TQHHYSMBTgQM3oECHsQAA" alt="www.linkedin.com/in/muppina-lakshman-sai" height="30" width="40" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
