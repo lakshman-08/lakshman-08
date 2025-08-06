@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **lakshmansai9978@gmail.com**
 
-  To Know More About Me Visit My Portfolio :- <a href="https://personal-portfolio-339e08.netlify.app/" target="blank"><img align="center" src="https://www.google.com/imgres?q=portfolio%20icon%20image&imgurl=https%3A%2F%2Fmedia.istockphoto.com%2Fid%2F1224959980%2Fvector%2Fportfolio-icon-vector-illustration-for-graphic-and-web-design.jpg%3Fs%3D170667a%26w%3D0%26k%3D20%26c%3DU19fP4uA5WSbdYOMjhnE3SuWx3nabBGE3BpcBqYdwM8%3D&imgrefurl=https%3A%2F%2Fwww.istockphoto.com%2Fvector%2Fportfolio-icon-vector-illustration-for-graphic-and-web-design-gm1224959980-360377379&docid=dboj0L8d_oIW9M&tbnid=TfGDD6APqNHHIM&vet=12ahUKEwi9iobDxfWOAxU9SWwGHW2IE30QM3oECDUQAA..i&w=416&h=416&hcb=2&ved=2ahUKEwi9iobDxfWOAxU9SWwGHW2IE30QM3oECDUQAA" alt="www.linkedin.com/in/muppina-lakshman-sai" height="30" width="40" /></a>
+  To Know More About Me Visit My Portfolio :- <a href="https://personal-portfolio-339e08.netlify.app/" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fvector%2Fportfolio-icon-vector-illustration-for-graphic-and-web-design-gm1224959980-360377379&psig=AOvVaw28an5_Qyonf2wbcz5luh4N&ust=1754547665359000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCODYxabG9Y4DFQAAAAAdAAAAABAE" alt="www.linkedin.com/in/muppina-lakshman-sai" height="30" width="40" /></a>
 
 - 📄To Know about my experiences :- <a href="https://docs.google.com/document/d/1eE-o2-lNHOACtK1N487732SCurKl9NER/edit?usp=sharing&ouid=113365726423347275792&rtpof=true&sd=true" target="blank"><img align="center" src="https://github.com/user-attachments/assets/fe66b2f3-18bb-4ed1-96e1-e209ccd87c29" alt="www.linkedin.com/in/muppina-lakshman-sai" height="30" width="40" /></a>
 
