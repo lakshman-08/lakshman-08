@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **lakshmansai9978@gmail.com**
 
-  To Know More About Me Visit My Portfolio :- <a href="https://personal-portfolio-339e08.netlify.app/" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fvector%2Fportfolio-icon-vector-illustration-for-graphic-and-web-design-gm1224959980-360377379&psig=AOvVaw28an5_Qyonf2wbcz5luh4N&ust=1754547665359000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCODYxabG9Y4DFQAAAAAdAAAAABAE" alt="www.linkedin.com/in/muppina-lakshman-sai" height="30" width="40" /></a>
+  To Know More About Me Visit My Portfolio :- <a href="https://personal-portfolio-339e08.netlify.app/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/2b38d78e-6fdb-4ae1-82c8-6e3eb0f7f74d" alt="www.linkedin.com/in/muppina-lakshman-sai" height="30" width="40" /></a>
 
 - 📄To Know about my experiences :- <a href="https://docs.google.com/document/d/1eE-o2-lNHOACtK1N487732SCurKl9NER/edit?usp=sharing&ouid=113365726423347275792&rtpof=true&sd=true" target="blank"><img align="center" src="https://github.com/user-attachments/assets/fe66b2f3-18bb-4ed1-96e1-e209ccd87c29" alt="www.linkedin.com/in/muppina-lakshman-sai" height="30" width="40" /></a>
 
