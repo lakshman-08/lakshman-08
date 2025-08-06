@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **lakshmansai9978@gmail.com**
 
-- 📄To Know about my experiences :- <a href="[https://drive.google.com/file/d/1L7yrtwciVt6JDpURwD3-lb17OGMd9NkF/view?usp=sharing](https://docs.google.com/document/d/1eE-o2-lNHOACtK1N487732SCurKl9NER/edit?usp=drive_link&ouid=113365726423347275792&rtpof=true&sd=true)" target="blank"><img align="center" src="https://github.com/user-attachments/assets/fe66b2f3-18bb-4ed1-96e1-e209ccd87c29" alt="www.linkedin.com/in/muppina-lakshman-sai" height="30" width="40" /></a>
+- 📄To Know about my experiences :- <a href="https://docs.google.com/document/d/1eE-o2-lNHOACtK1N487732SCurKl9NER/edit?usp=sharing&ouid=113365726423347275792&rtpof=true&sd=true" target="blank"><img align="center" src="https://github.com/user-attachments/assets/fe66b2f3-18bb-4ed1-96e1-e209ccd87c29" alt="www.linkedin.com/in/muppina-lakshman-sai" height="30" width="40" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
