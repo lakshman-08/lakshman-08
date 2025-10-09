@@ -16,7 +16,7 @@
 
   To Know More About Me Visit My Portfolio :- <a href="https://personal-portfolio-339e08.netlify.app/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/2b38d78e-6fdb-4ae1-82c8-6e3eb0f7f74d" alt="www.linkedin.com/in/muppina-lakshman-sai" height="30" width="40" /></a>
 
-- 📄To Know about my experiences :- <a href="https://docs.google.com/document/d/1eE-o2-lNHOACtK1N487732SCurKl9NER/edit?usp=sharing&ouid=113365726423347275792&rtpof=true&sd=true" target="blank"><img align="center" src="https://github.com/user-attachments/assets/fe66b2f3-18bb-4ed1-96e1-e209ccd87c29" alt="www.linkedin.com/in/muppina-lakshman-sai" height="30" width="40" /></a>
+- 📄To Know about my experiences :- <a href="https://drive.google.com/file/d/1MZherY5pxgw_QrZD-tGmeoNLP0thLXYG/view?usp=drive_link" target="blank"><img align="center" src="https://github.com/user-attachments/assets/fe66b2f3-18bb-4ed1-96e1-e209ccd87c29" alt="www.linkedin.com/in/muppina-lakshman-sai" height="30" width="40" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
