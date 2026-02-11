@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm M Lakshman Sai</h1>
-<h3 align="center">Highly skilled and detail-oriented Java Full Stack Developer with over 1.5 Years of experience in designing, developing, and maintaining scalable web applications. Proficient in Java, Spring Boot, and RESTful APIs on the backend, and adept in modern frontend technologies such as React, and JavaScript. Expertise in Microservices architecture, database management (MySQL), and Learning Knowledge in cloud platforms (AWS).</h3>
+<h3 align="center">Highly skilled and detail-oriented Java Full Stack Developer with over 2 Years of experience in designing, developing, and maintaining scalable web applications. Proficient in Java, Spring Boot, and RESTful APIs on the backend, and adept in modern frontend technologies such as React, and JavaScript. Expertise in Microservices architecture, database management (MySQL), and Learning Knowledge in cloud platforms (AWS).</h3>
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
